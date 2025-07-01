@@ -19,7 +19,7 @@ const Research: React.FC = () => {
         filename = 'service-requests.json'
         break
       case 'all':
-        data = { posts, serviceRequests }
+        data = [{ posts, serviceRequests }]
         filename = 'community-data.json'
         break
     }
