@@ -40,7 +40,7 @@ To build stronger, more connected communities by leveraging technology to facili
 ### 🌍 Impact
 - **Community Building**: Connects neighbors who might never have met otherwise
 - **Mutual Aid**: Facilitates help exchange for daily needs and emergencies
-- **Social Capital**: Builds trust and relationships through reputation systems
+- **Social Capital**:It Builds trust and relationships through reputation systems
 - **Local Resilience**: Strengthens neighborhood capacity for self-support
 
 ---
